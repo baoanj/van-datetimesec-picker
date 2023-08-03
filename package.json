@@ -1,0 +1,10 @@
+{
+  "name": "van-datetimesec-picker",
+  "version": "1.0.0",
+  "description": "vant datetime-picker with seconds",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["vant", "DatetimePicker"],
+  "author": "baoanj",
+  "license": "ISC"
+}
